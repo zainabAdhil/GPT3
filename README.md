@@ -16,7 +16,7 @@ This application marks my initial foray into React development, guided by an ext
 To get started with using or viewing this website, follow these steps:
 1. **Download or clone the repository to your local machine**
 2. **Install dependencies:** npm install
-3. **Start the development server** npm start
+3. **Start the development server:** npm start
 4. It should **Open the website in your browser** else open it manually
 
 
