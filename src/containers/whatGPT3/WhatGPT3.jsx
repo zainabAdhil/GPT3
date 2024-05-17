@@ -5,7 +5,7 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="What is GPT-3" text="GPT-3, developed by OpenAI, is one of the most advanced language models available. It uses deep learning to generate human-like text based on given prompts. With 175 billion parameters, GPT-3 can perform diverse tasks such as text generation, translation, and question-answering, making it a versatile tool for developers and businesses." />
     </div>
 
     <div className="gpt3__whatgpt3-heading">
@@ -14,9 +14,9 @@ const WhatGPT3 = () => (
     </div>
     
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Chatbots" text="Creates natural, human-like conversations, enhancing customer service and virtual assistant interactions with advanced contextual understanding." />
+      <Feature title="Knowledgebase" text="Enables accurate information retrieval and detailed answers, improving the efficiency of intelligent support and search systems." />
+      <Feature title="Education" text="Provides personalized learning experiences, generating interactive educational content and tutoring to enhance the educational process." />
     </div>
   </div>
 );

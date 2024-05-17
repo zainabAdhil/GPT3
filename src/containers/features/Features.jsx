@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Healthcare Industry Transformation',
+    text: 'Enhanced patient care and streamlined processes with GPT-3 in the healthcare industry.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Financial Sector Innovation',
+    text: 'Automated analysis and personalized recommendations in finance with GPT-3.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Educational Enhancement',
+    text: 'Interactive learning tools and personalized content creation powered by GPT-3.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Creative Content Generation',
+    text: 'Revolutionized creative industries with AI-driven content creation by GPT-3.',
   },
 ];
 
