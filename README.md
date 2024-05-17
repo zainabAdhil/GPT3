@@ -1,5 +1,4 @@
 # GPT3 React App
-## The site is not fully completed, currenlty working on this
 
 This application marks my initial foray into React development, guided by an extensive YouTube tutorial. Throughout the journey, I've gained valuable insights into transforming Figma designs into modern, responsive, and visually appealing React applications.
 
