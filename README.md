@@ -12,7 +12,7 @@ This application marks my initial foray into React development, guided by an ext
 - Implementing precise media queries to ensure satisfactory responsiveness across various devices.
 
 ## Getting Started
-To get started with using or viewing this website, follow these steps:
+To get started with using this website, follow these steps:
 1. **Download or clone the repository to your local machine**
 2. **Install dependencies:** npm install
 3. **Start the development server:** npm start
